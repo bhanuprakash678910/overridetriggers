@@ -2,7 +2,7 @@ node {
 
 	properties(
 		[
-			//overrideIndexTriggers(true)
+			overrideIndexTriggers(false)
 		]
 	) 
 
